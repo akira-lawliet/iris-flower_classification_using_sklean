@@ -53,3 +53,4 @@ The model is trained on a subset of the dataset, and its performance is evaluate
 ## Getting Started
 
 To run the project, you need to have Python and the required libraries installed. You can install the dependencies by running:
+  `pip install scikit-learn pandas numpy seaborn matplotlib`
